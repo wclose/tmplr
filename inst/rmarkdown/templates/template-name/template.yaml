@@ -1,0 +1,4 @@
+name: Status Report
+description: >
+   Rmd format for compiling experimental results. Hides code unless desired and sets Rmd directory to project working directory.
+create_dir: FALSE
